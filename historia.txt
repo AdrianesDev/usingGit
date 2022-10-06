@@ -1,0 +1,4 @@
+esta es mi primera prueba con git
+estamos modificando el archivo original
+
+Esto me va a cambiar la vida y nunca debo parar de aprender
